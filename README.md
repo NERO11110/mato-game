@@ -30,7 +30,6 @@ Python の物理演算（斜方投射・反発バウンド）と `matplotlib.ani
 
 ### 4. バウンド物理計算 ＆ MISS / リトライ機能
 <img width="225" height="161" alt="bound" src="https://github.com/user-attachments/assets/a518fcdf-ec8f-4598-8503-6b1af0460aff" />
-
 <img width="237" height="166" alt="miss" src="https://github.com/user-attachments/assets/5c2d0963-412d-4ec9-95b5-c67904466df3" />
 
 - 地面との接触時に反発係数を計算し、最大 3 回まで跳ね返る物理挙動を再現しています。
