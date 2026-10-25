@@ -50,6 +50,6 @@ Python の物理演算（斜方投射・反発バウンド）と `matplotlib.ani
 ---
 
 ## 💻 動作環境・使用ライブラリ
-- **Language:** Python 3.x
-- **Environment:** Google Colab / Jupyter Notebook
+- **Language:** Python
+- **Environment:** Google Colab
 - **Libraries:** `matplotlib`, `math`, `random`, `IPython`
